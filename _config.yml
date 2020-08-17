@@ -13,6 +13,7 @@ author: Maciej Majewski
 
 navbar-links:
   About Me: "aboutme"
+  Posts: "posts"
   Projects: "projects"
   AGH: "https://fis.agh.edu.pl/~majewski/"
 
