@@ -12,7 +12,7 @@ author: Maciej Majewski
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me / Contact: "aboutme"
   Posts: "posts"
   Projects: "projects"
   Talks: "events"
