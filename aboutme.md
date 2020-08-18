@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About me / Contact
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am Maciej, and I like coding stuff. You can see the list of my projects [here](https://mmajewsk.github.io/projects/). 
+I have graduated with Master of Science degree in Computer Science at AGH UST (speciality: Data modelling and analysis).
+Currently, I am a physics PhD student, and a member of [LHCb collaboration](http://lhcb.web.cern.ch/) @ [CERN](https://home.cern/).
 
-What else do you need?
+### Contact
 
-### my history
+GitHub: [https://github.com/mmajewsk](https://github.com/mmajewsk)
+LinkedIn: [www.linkedin.com/in/mwmajewsk](www.linkedin.com/in/mwmajewsk) - don't be shy, reach out ;)
+My website at AGH UST: [https://fis.agh.edu.pl/~majewski/](https://fis.agh.edu.pl/~majewski/)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
