@@ -1,4 +1,6 @@
-## mmajewsk website
+---
+title: Hi I'm Maciej
+subtitle: AI / ML / Python / Physics / Computer Vision & Robots
+---
 
-### more later
-
+More coming soon
