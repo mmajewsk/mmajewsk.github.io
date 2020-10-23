@@ -35,3 +35,6 @@ My interests that do not overlap with my profession are;
 - My website at AGH UST: [https://fis.agh.edu.pl/~majewski/](https://fis.agh.edu.pl/~majewski/)
 - ORCID: [https://orcid.org/0000-0002-4658-6962](https://orcid.org/0000-0002-4658-6962)
 
+Email:
+>! ![email](https://i.imgur.com/EDjLEXK.png)
+
