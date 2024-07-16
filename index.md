@@ -11,7 +11,7 @@ You are here probably because of two things: you are in need of my services or y
 
 Or both :D 
 
-So hi, I'm Maciej, and I do AI and other fun science stuff. You can read more about me [here]({%post_url aboutme.md%}).
+So hi, I'm Maciej, and I do AI and other fun science stuff. You can read more about me [here]({{ site.baseurl }}{% link aboutme.md %}).
 
 I can offer my professional help with following topics:
  - **Creating amazing AI and ML systems**: I can create models, draft system designs, and brainstorm solutions with you. I am very keen on discusing these kind of problems so feel free to just reach out.
