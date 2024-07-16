@@ -5,28 +5,28 @@ title: About me / Contact
 
 Hi.
 
-I am Maciej, and I like coding stuff.
+I am Maciej, and I love AI and science. 
 
-I have graduated with Master of Science degree in Computer Science at AGH UST (speciality: Data modelling and analysis).
+In fact I love those two topics so much, I have PhD in application of machine learning to science problems - specifically high energy physics (some call it particle physics).
+I made some cools stuff for the [CERN](https://home.cern/) [LHCb collaboration](http://lhcb.web.cern.ch/) (yeah, that's the one with the big circle thingy called Large Hadron Collider). 
+By the way you can read entiety of my PhD online here: [phd_link](https://github.com/mmajewsk/phd_thesis_mmajewski) 
 
-Currently, I am a physics PhD student, and a member of [LHCb collaboration](http://lhcb.web.cern.ch/) @ [CERN](https://home.cern/).
+My interest in science lays mainly in solving problems with using code and AI, this is why I have Master of Science degree in Computer Science at AGH UST.
 
-I also teach "Python in the Enterprise" course at my Uni.
+I like to share my passion for cool things:
+ - I teach "Python in the Enterprise" course at AGH UST in Kraków.
+ - I am also one of the organisers of PyData Kraków [meetup](https://www.meetup.com/pl-PL/PyData-Krakow/) - check it out to see the next event.
+ - ... and soon other opportunities to be announced soon
 
-My experience with machine learning started with circa 2013, with participation in kaggle competitions.
-So far the core of my work with AI/ML was centered around LHCb's VELO detector, you can find some published papers on that topic on my ORCID page.
+My professional experiences are vast, and I plan to describe them in the "projects" section of this page soon, but let me give you a gist:
+ - My experience with machine learning started with circa 2013, with participation in kaggle competitions.
+ - In 2014 I worked for a small startup, and worked on analyzing the data from sensors aboard a gyroplane.
+ - I have been involved with the LHCb's velo detector since 2015, and doing cool software for it since then till 2023. Stuff like: calibration monitoring, database - but also things needing an machine learning approach anomaly detection, need of calibration forecast, dimentionality reduction, and a nice method for finding unruly pixels in new VeloPix detector. I lead teams consisting of many students that participated in those effors.
+ - During the classes that I have been giving, all of the students were creating their own projects in groups. That gave me amazing oportuninty to quickly gain managing skills, and really in the end I learned from them a lot when it comes to creating projects that involve machine learning, not only on the technical level, but also as someone who oversees a team effort.
+ - TBD
+ - TBD
+ 
 
-I am also developing some of the software for the LHCb's VELO in run III.
-Additionally I am working on application of reinforcement learning for high energy physics in lartpc dataset.
-In my spare time I enjoy working on my project of autonomous vehicle, written in python.
-If you are interested in any of the above, see the list of my projects [here](https://mmajewsk.github.io/projects/). 
-
-I am also one of the organisers of PyData Kraków [meetup](https://www.meetup.com/pl-PL/PyData-Krakow/), as well as [Intellinet AGH](http://www.intelli-net.agh.edu.pl/forum-intelli-net/).
-
-My interests that do not overlap with my profession are;
-- Music (guitar, ukulele, and others)
-- Trekking (usually in the southern Poland)
-- Travel 
 
 ### Contact
 
