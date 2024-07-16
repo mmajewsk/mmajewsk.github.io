@@ -10,13 +10,14 @@ I am Maciej, and I love AI and science.
 
 In fact I love those two topics so much, I have PhD in application of machine learning to science problems - specifically high energy physics (some call it particle physics).
 I made some cools stuff for the [CERN](https://home.cern/) [LHCb collaboration](http://lhcb.web.cern.ch/) (yeah, that's the one with the big circle thingy called Large Hadron Collider). 
-By the way you can read entiety of my PhD online here: https://github.com/mmajewsk/phd_thesis_mmajewski 
+By the way you can read entiety of my PhD online here: [phd_link](https://github.com/mmajewsk/phd_thesis_mmajewski) 
+
 My interest in science lays mainly in solving problems with using code and AI, this is why I have Master of Science degree in Computer Science at AGH UST.
 
 I like to share my passion for cool things:
  - I teach "Python in the Enterprise" course at AGH UST in Kraków.
  - I am also one of the organisers of PyData Kraków [meetup](https://www.meetup.com/pl-PL/PyData-Krakow/) - check it out to see the next event.
- - ... and soon other opportunities 
+ - ... and soon other opportunities to be announced soon
 
 My professional experiences are vast, and I plan to describe them in the "projects" section of this page soon, but let me give you a gist:
  - My experience with machine learning started with circa 2013, with participation in kaggle competitions.
