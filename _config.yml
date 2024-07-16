@@ -13,7 +13,7 @@ author: Maciej Majewski
 
 navbar-links:
   About Me / Contact: "aboutme"
-#  Posts: "posts"
+  Posts: "posts"
   Projects: "projects"
   Talks: "events"
 
