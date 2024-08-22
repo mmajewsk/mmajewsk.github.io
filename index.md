@@ -15,7 +15,7 @@ feature_row:
   - image_path: /assets/images/noun-ai.png
     alt: "customizable"
     title: "Creating amazing AI and ML systems & Checking the safety of your AI systems "
-    excerpt: "I can create models, draft system designs, and brainstorm solutions with you. I am very keen on discusing these kind of problems so feel free to just reach out. I consider myself a Hacker (the good kind), with specific interest in AI systems and security threats realted to AI. Want to be sure that no one exploits your artificial neurons? Let me know."
+    excerpt: "I can create models, draft system designs, and brainstorm solutions with you. I am very keen on discusing these kind of problems so feel free to just reach out. "
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -45,3 +45,5 @@ You are here probably because of two things: you are in need of my services or y
 Or both :D 
 
 So hi, I'm Maciej, and I do AI and other fun science stuff. You can read more about me [here]({{ site.baseurl }}{% link aboutme.md %}).
+
+I consider myself a Hacker (the good kind), with specific interest in AI systems and security threats realted to AI. Want to be sure that no one exploits your artificial neurons? Let me know.
