@@ -12,10 +12,10 @@ excerpt: >
     Welcome to my personal website.<br />
     Need help with AI system?<br />
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/noun-ai.png
     alt: "customizable"
-    title: "Creating amazing AI and ML systems"
-    excerpt: "I can create models, draft system designs, and brainstorm solutions with you. I am very keen on discusing these kind of problems so feel free to just reach out."
+    title: "Creating amazing AI and ML systems & Checking the safety of your AI systems "
+    excerpt: "I can create models, draft system designs, and brainstorm solutions with you. I am very keen on discusing these kind of problems so feel free to just reach out. I consider myself a Hacker (the good kind), with specific interest in AI systems and security threats realted to AI. Want to be sure that no one exploits your artificial neurons? Let me know."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -33,14 +33,6 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "Checking the safety of your AI systems"
-    excerpt: "I consider myself a Hacker (the good kind), with specific interest in AI systems and security threats realted to AI. Want to be sure that no one exploits your artificial neurons? Let me know."
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
----
 
 {% include feature_row %}
 
