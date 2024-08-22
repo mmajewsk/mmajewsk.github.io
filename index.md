@@ -33,7 +33,7 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-
+---
 {% include feature_row %}
 
 
