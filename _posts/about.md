@@ -8,9 +8,7 @@ tags:
   - link
   - Post Formats
 last_modified_at: 2024-08-22T22:18:26+02:00
-
 toc: true
-
 author_profile: true
 ---
 Hi.
