@@ -12,22 +12,22 @@ excerpt: >
     Welcome to my personal website.<br />
     Need help with AI system?<br />
 feature_row:
-  - image_path: /assets/images/noun-ai.png
-    alt: "customizable"
+#  - image_path: /assets/images/noun-ai.png
+  -  alt: "customizable"
     title: "Creating amazing AI and ML systems & Checking the safety of your AI systems "
     excerpt: "I can create models, draft system designs, and brainstorm solutions with you. I am very keen on discusing these kind of problems so feel free to just reach out. "
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
+#  - image_path: /assets/images/mm-responsive-feature.png
+  -  alt: "fully responsive"
     title: "Teaching you and your company about technology"
     excerpt: "Im always happy to share my knowlegde with others, specifically on topics of: Python, Machine Learning, Computer Vision, AI and system design."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
+#  - image_path: /assets/images/mm-free-feature.png
+  - alt: "100% free"
     title: "Helping you with your grant application"
     excerpt: "I'm familliar with Polish NCBIR and NCN grant application processes, but feel free to talk about other sources."
     url: "/docs/license/"
