@@ -26,7 +26,7 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/noun-ai.png
+  - image_path: /assets/images/noun-science.png
     alt: "100% free"
     title: "Helping you with your grant application"
     excerpt: "I'm familliar with Polish NCBIR and NCN grant application processes, but feel free to talk about other sources."
