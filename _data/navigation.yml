@@ -5,3 +5,6 @@ main:
     url: /projects/
   - title: "About me"
     url: /about/
+
+  - title: "Pages"
+    url: /page-archive/
