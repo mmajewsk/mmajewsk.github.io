@@ -44,6 +44,6 @@ You are here probably because of two things: you are in need of my services or y
 
 Or both :D 
 
-So hi, I'm Maciej, and I do AI and other fun science stuff. You can read more about me [here]({{ site.baseurl }}{% link aboutme.md %}).
+So hi, I'm Maciej, and I do AI and other fun science stuff. You can read more about me [here]({{ site.baseurl }}{% link _pages/about.md %}).
 
 I consider myself a Hacker (the good kind), with specific interest in AI systems and security threats realted to AI. Want to be sure that no one exploits your artificial neurons? Let me know.
