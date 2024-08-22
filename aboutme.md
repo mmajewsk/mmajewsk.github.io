@@ -1,8 +1,7 @@
 ---
-layout: page
-title: About me / Contact
+title: "About me"
+toc: true
 ---
-
 Hi.
 
 I am Maciej, and I love AI and science. 
