@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Ongoing projects
-subtitle: Not only for work, but for fun as well ;)
+title: "Ongoing projects"
+excerpt: "Work and fun :)"
+#header:
+#  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+toc: true
 ---
 
 ## Tonic ([github.com/mmajewsk/Tonic](https://github.com/mmajewsk/Tonic))
