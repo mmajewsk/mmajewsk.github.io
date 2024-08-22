@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About the author"
+last_modified_at: 2024-08-22T22:18:26+02:00
 
 toc: true
 ---
