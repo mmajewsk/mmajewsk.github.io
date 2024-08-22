@@ -4,7 +4,7 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "About me"
-    url: /about/
+    url: /_pages/about.md
 
   - title: "Pages"
     url: /year-archive/
