@@ -1,6 +1,6 @@
 ---
-permalink: /about2/
-title: "About2"
+permalink: /about/
+title: "About"
 excerpt: "About the author"
 categories:
   - Post Formats
