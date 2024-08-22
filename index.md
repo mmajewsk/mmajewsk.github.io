@@ -19,7 +19,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/noun-ai.png
+  - image_path: /assets/images/noun-teaching.png
     alt: "fully responsive"
     title: "Teaching you and your company about technology"
     excerpt: "Im always happy to share my knowlegde with others, specifically on topics of: Python, Machine Learning, Computer Vision, AI and system design."
