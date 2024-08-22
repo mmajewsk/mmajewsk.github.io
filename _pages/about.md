@@ -1,5 +1,8 @@
 ---
-title: "About me"
+permalink: /about/
+title: "About"
+excerpt: "About the author"
+
 toc: true
 ---
 Hi.
