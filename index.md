@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/pexels-pixabay-270366.jpg
+  overlay_image: /assets/images/gingerbread_man_lightbulb.jpeg
   actions:
     - label: "<i class='fas fa-download'></i> Contact now!"
       url: "/docs/quick-start-guide/"
