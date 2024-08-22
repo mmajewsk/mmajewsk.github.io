@@ -1,0 +1,11 @@
+main:
+  - title: "Index"
+    url: /index/
+  - title: "Projects"
+    url: /projects/
+  - title: "aboutme"
+    url: /aboutme/
+
+  - title: "External Link"
+    url: https://google.com
+    target: _blank
