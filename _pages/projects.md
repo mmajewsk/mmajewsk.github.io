@@ -4,20 +4,13 @@ excerpt: "Work and fun :)"
 #header:
 #  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 toc: true
-
 permalink: /projects/
 layout: tag
 taxonomy: project
 author_profile: true
-
 ---
 
-## Tonic ([github.com/mmajewsk/Tonic](https://github.com/mmajewsk/Tonic))
-
-![demo](https://imgur.com/HAA9xJo.gif)
   
-
-
 ## [gym-lartpc](https://github.com/mmajewsk/gym-lartpc2d)
 
 ![](https://i.imgur.com/IyswEwy.gif)
