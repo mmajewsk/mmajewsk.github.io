@@ -1,5 +1,6 @@
 ---
-layout: splash
+layout: home
+classes: wide
 permalink: /
 hidden: true
 header:
