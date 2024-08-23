@@ -1,15 +1,9 @@
 ---
-title: "Ongoing projects"
-excerpt: "Work and fun :)"
-#header:
-#  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
-toc: true
-permalink: /projects/
+title: Projects
 layout: tag
-#taxonomy: project
-entries_layout: list
+permalink: /projects/
+taxonomy: project
 author_profile: true
 ---
-
 
 
