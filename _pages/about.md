@@ -34,7 +34,7 @@ You can see the entirity of the PhD dissertation here: [phd_link](https://github
 I like to share my passion for cool things:
  - I teach "Python in the Enterprise" course at AGH UST in Kraków.
  - I am also one of the organisers of **PyData Kraków** [meetup](https://www.meetup.com/pl-PL/PyData-Krakow/) - check it out to see the next event.
- - ... and soon other opportunities to be announced soon
+ - ... and soon other opportunities to be announced
 
 
 ## Links
