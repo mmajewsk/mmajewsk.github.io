@@ -12,7 +12,7 @@ excerpt: >
     Welcome to my personal website.<br />
     Need help with AI system?<br />
 feature_row:
-  - image_path: /assets/images/noun-ai.png
+  - image_path: /assets/images/noun-ai3.png
     alt: "Creating AI"
     title: "Creating amazing AI and ML systems and ensure safety"
     excerpt: "I can create models, draft system designs, test your AI system for vulnerabilities and brainstorm solutions with you. I am very keen on discusing these kind of problems so feel free to just reach out."
