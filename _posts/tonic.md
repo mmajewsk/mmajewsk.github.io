@@ -3,6 +3,7 @@ title: "Tonic"
 tags:
   - project
 excerpt: "An open source project of self driving car, build with minimal hardware."
+last_modified_at: 2024-08-21T22:18:26+02:00
 ---
 
 ## Tonic 

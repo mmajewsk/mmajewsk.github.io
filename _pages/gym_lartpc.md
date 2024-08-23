@@ -3,6 +3,7 @@ title: "Lartpc reinforcement learning"
 tags:
   - project
 excerpt: "Reinforcement learning in service of physics. With extra OpneAI gym sauce."
+last_modified_at: 2024-08-23T22:18:26+02:00
 ---
 
 ![](https://i.imgur.com/IyswEwy.gif)
