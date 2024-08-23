@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/noun-ai.png
     alt: "Creating AI"
     title: "Creating amazing AI and ML systems and ensuring safety"
-    excerpt: "I can create models, draft system designs, test your AI system for vulnerabilities and brainstorm solutions with you. I am very keen on discusing these kind of problems so feel free to just reach out."
+    excerpt: "I can create models, draft system designs, test your AI system for vulnerabilities and brainstorm solutions with you. I am very keen on discusing these kind of problems - just reach out."
     url: "/mlai/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
