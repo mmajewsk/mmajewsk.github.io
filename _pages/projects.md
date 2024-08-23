@@ -7,6 +7,7 @@ toc: true
 permalink: /projects/
 layout: tag
 taxonomy: project
+entries_layout: list
 author_profile: true
 ---
 
