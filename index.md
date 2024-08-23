@@ -16,7 +16,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/noun-ai.png
     alt: "Creating AI"
-    title: "Creating amazing AI and ML systems and ensure safety"
+    title: "Creating amazing AI and ML systems and ensuring safety"
     excerpt: "I can create models, draft system designs, test your AI system for vulnerabilities and brainstorm solutions with you. I am very keen on discusing these kind of problems so feel free to just reach out."
     url: "/mlai/"
     btn_class: "btn--primary"
