@@ -5,7 +5,7 @@ main:
     url: /projects/
   - title: "About me"
     url: /about/
+  - title: "What I Offer"
+    url: /services/
   - title: "Contact"
     url: /contact/
-  - title: "Services"
-    url: /services/
