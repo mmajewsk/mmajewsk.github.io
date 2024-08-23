@@ -4,13 +4,19 @@ excerpt: "Work and fun :)"
 #header:
 #  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 toc: true
+
+permalink: /projects/
+layout: tag
+taxonomy: project
+author_profile: true
+
 ---
 
 ## Tonic ([github.com/mmajewsk/Tonic](https://github.com/mmajewsk/Tonic))
 
 ![demo](https://imgur.com/HAA9xJo.gif)
   
-An open source project of self driving car, build for minimal price.
+
 
 ## [gym-lartpc](https://github.com/mmajewsk/gym-lartpc2d)
 
