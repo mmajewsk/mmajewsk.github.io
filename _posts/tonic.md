@@ -1,5 +1,7 @@
 ---
 title: "Tonic"
+categories:
+  - Post Formats
 tags:
   - project
 excerpt: "An open source project of self driving car, build with minimal hardware."
