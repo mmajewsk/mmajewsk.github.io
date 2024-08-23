@@ -1,5 +1,7 @@
 ---
 title: "Lartpc reinforcement learning"
+categories:
+ - posts
 tags:
   - project
 excerpt: "Reinforcement learning in service of physics. With extra OpneAI gym sauce."
