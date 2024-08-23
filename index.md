@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/gingerbread_main2.jpg
+  overlay_image: /assets/images/main_warm.jpg
   actions:
     - label: "<i class='fa-commenting-o'></i> Leave me a message!"
       url: "/contact/"
