@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 permalink: /
 hidden: true
 header:
@@ -35,3 +35,5 @@ feature_row:
     btn_label: "Learn more"      
 ---
 {% include feature_row %}
+
+
