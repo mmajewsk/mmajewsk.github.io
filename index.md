@@ -4,7 +4,8 @@ classes: wide
 author_profile: true
 permalink: /
 hidden: true
-paginate: 3
+pagination:
+  enabled: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/main_warm.jpg
