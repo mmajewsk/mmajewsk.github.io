@@ -2,16 +2,12 @@
 permalink: /about/
 title: "About"
 excerpt: "About the author"
-categories:
-  - Post Formats
-tags:
-  - link
-  - Post Formats
 last_modified_at: 2024-08-22T22:18:26+02:00
 toc: true
 author_profile: true
 ---
-Hi.
+
+## Hello there
 
 I am Maciej, and I love AI and science. 
 
@@ -25,6 +21,8 @@ I like to share my passion for cool things:
  - I teach "Python in the Enterprise" course at AGH UST in Kraków.
  - I am also one of the organisers of PyData Kraków [meetup](https://www.meetup.com/pl-PL/PyData-Krakow/) - check it out to see the next event.
  - ... and soon other opportunities to be announced soon
+
+## My professional experiences
 
 My professional experiences are vast, and I plan to describe them in the "projects" section of this page soon, but let me give you a gist:
  - My experience with machine learning started with circa 2013, with participation in kaggle competitions.
@@ -42,7 +40,3 @@ My professional experiences are vast, and I plan to describe them in the "projec
 - LinkedIn: [www.linkedin.com/in/mwmajewsk](www.linkedin.com/in/mwmajewsk) - don't be shy, reach out ;)
 - My website at AGH UST: [https://fis.agh.edu.pl/~majewski/](https://fis.agh.edu.pl/~majewski/)
 - ORCID: [https://orcid.org/0000-0002-4658-6962](https://orcid.org/0000-0002-4658-6962)
-
-Email:
->! ![email](https://i.imgur.com/EDjLEXK.png)
-

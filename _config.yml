@@ -113,19 +113,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maciej Majewski | Hawker"
+  name             : "Dr Maciej Majewski | Hawker"
   avatar           : "/assets/images/avatar.jpeg"
-  bio              : "I am an **amazing** person."
+  bio              : "AI/ML Researcher, Educator, Physicist"
   location         : "Kraków, Poland"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://gingerbreadideas.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-linkedin-square"
       url: "https://www.linkedin.com/in/mwmajewsk/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

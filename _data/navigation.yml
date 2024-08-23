@@ -5,6 +5,7 @@ main:
     url: /projects/
   - title: "About me"
     url: /about/
-
+  - title: "Contact"
+    url: /contact/
   - title: "Pages"
     url: /year-archive/
