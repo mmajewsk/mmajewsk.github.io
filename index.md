@@ -1,7 +1,7 @@
 ---
 layout: home
 classes: wide
-author_profile: false
+author_profile: true
 permalink: /
 hidden: true
 header:
