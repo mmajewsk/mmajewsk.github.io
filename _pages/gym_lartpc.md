@@ -2,10 +2,15 @@
 title: "Lartpc reinforcement learning"
 tags:
   - project
-excerpt: "Reinforcement learning in service of physics."
+excerpt: "Reinforcement learning in service of physics. With extra OpneAI gym sauce."
 ---
 
+![](https://i.imgur.com/IyswEwy.gif)
+
 ## lartpc2D
+
+[github.com/mmajewsk/lartpc2D](https://github.com/mmajewsk/lartpc2D g)
+
 The lartpc2D project focuses on applying reinforcement learning to solve problems in high energy physics, specifically using deep Q-learning. The project aims to model the behavior of particles in a Liquid Argon Time Projection Chamber (LArTPC) detector. Here are some key points:
 
 Objective: To use reinforcement learning to simulate particle interactions within a LArTPC detector.
@@ -20,7 +25,11 @@ The approach can be extended to include time dimensions and multiple agents.
 Implementation:
 The project uses datasets from deeplearnphysics.org.
 The basic implementation involves deep Q-learning with two inputs and two outputs1.
+
 ## gym-lartpc2d
+
+[github.com/mmajewsk/gym-lartpc2d](https://github.com/mmajewsk/gym-lartpc2d)
+
 The gym-lartpc2d project is an extension of the lartpc2D project, designed to integrate with OpenAI’s Gym environment. This allows for standardized reinforcement learning experiments and easier benchmarking. Key aspects include:
 
 Objective: To provide a Gym-compatible environment for reinforcement learning experiments on LArTPC data.

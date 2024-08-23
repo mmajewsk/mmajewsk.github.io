@@ -6,23 +6,10 @@ excerpt: "Work and fun :)"
 toc: true
 permalink: /projects/
 layout: tag
-taxonomy: project
+#taxonomy: project
 entries_layout: list
 author_profile: true
 ---
 
-  
-## [gym-lartpc](https://github.com/mmajewsk/gym-lartpc2d)
 
-![](https://i.imgur.com/IyswEwy.gif)
-
-Openai-gym compatible environment for high energy physics images.
-
-## [Storck](https://gitlab.cern.ch/mmajewsk/storck)
-
-Database project for LHCb-Velo detector at CERN.
-
-## [Titania](https://gitlab.cern.ch/mmajewsk/titania)
-
-Monitoring for LHCb-Veo detector at CERN.
 
