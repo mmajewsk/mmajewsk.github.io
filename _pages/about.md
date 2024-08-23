@@ -41,5 +41,4 @@ I like to share my passion for cool things:
 
 - GitHub: [https://github.com/mmajewsk](https://github.com/mmajewsk)
 - LinkedIn: [www.linkedin.com/in/mwmajewsk](www.linkedin.com/in/mwmajewsk) - don't be shy, reach out ;)
-- My website at AGH UST: [https://fis.agh.edu.pl/~majewski/](https://fis.agh.edu.pl/~majewski/)
 - ORCID: [https://orcid.org/0000-0002-4658-6962](https://orcid.org/0000-0002-4658-6962)
