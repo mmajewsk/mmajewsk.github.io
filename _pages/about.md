@@ -36,6 +36,9 @@ I like to share my passion for cool things:
  - I am also one of the organisers of **PyData Kraków** [meetup](https://www.meetup.com/pl-PL/PyData-Krakow/) - check it out to see the next event.
  - ... and soon other opportunities to be announced
 
+## Conferences 
+
+A full list of my participation in conferences can be found [here](https://docs.google.com/document/d/1kbPkzhdeZrcIxw3mHQKB2r6fMByU-V0l4KoUNYIJ6M4/edit?usp=sharing).
 
 ## Links
 
