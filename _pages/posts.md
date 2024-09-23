@@ -2,6 +2,6 @@
 title: Posts
 layout: tag
 permalink: /services/
-taxonomy: post
+taxonomy: posts
 author_profile: true
 ---
