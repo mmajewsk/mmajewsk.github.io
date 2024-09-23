@@ -4,7 +4,7 @@ categories:
  - posts
 tags:
   - project
-  - post
+  - posts
 excerpt: "Reinforcement learning in service of physics. With extra OpneAI gym sauce."
 last_modified_at: 2021-03-21T12:34:19+02:00
 ---
