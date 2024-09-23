@@ -1,7 +1,7 @@
 ---
 title: Posts
 layout: tag
-permalink: /services/
+permalink: /posts/
 taxonomy: posts
 author_profile: true
 ---
