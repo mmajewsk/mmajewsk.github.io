@@ -1,13 +1,14 @@
 ---
-title: "How to spoil AI"
+title: "How to spoil AI - article for sekurak.pl"
 categories:
  - posts
 tags:
-  - project
   - posts
-excerpt: "Exceprt ptjer tja before"
-last_modified_at: 2024-03-20T13:31:19+02:00
+last_modified_at: 2024-09-23T09:58:00+02:00
+seo_title: "Article ai security sekurak"
+excerpt: "Article about hacking ai that I wrte for sekurak.pl"
 ---
+
 
 ## I wrote an article for sekurak.pl 
 
