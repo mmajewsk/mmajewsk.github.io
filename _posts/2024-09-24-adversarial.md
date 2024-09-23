@@ -1,11 +1,11 @@
 ---
-title: "How to spoil AI - article for sekurak.pl"
+title: "How to spoil AI"
 categories:
  - posts
 tags:
   - project
   - posts
-excerpt: "A database system for LHCb detector"
+excerpt: "Exceprt ptjer tja before"
 last_modified_at: 2024-03-20T13:31:19+02:00
 ---
 
