@@ -3,6 +3,7 @@ title: "How to spoil AI - article for sekurak.pl"
 categories:
  - posts
 tags:
+  - posts
   - articles
   - writing
 last_modified_at: 2024-09-24T11:58:00+02:00
