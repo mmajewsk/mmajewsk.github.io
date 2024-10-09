@@ -9,7 +9,7 @@ media_library:
   name: uploadcare
 
 collections:
-  name: blog
-  folder: content/blog
-  slug: {{year}}-{{month}}-{{slug}}
-  preview_path: blog/{{slug}}
+  - name: blog
+    folder: content/blog
+    slug: {{year}}-{{month}}-{{slug}}
+    preview_path: blog/{{slug}}
