@@ -17,4 +17,6 @@ excerpt: I wrote an article to the polish programista magazine
 ## I wrote an article for programista magazine
 
 ![The cover of the magazine](https://programistamag.pl/wp-content/uploads/magazines/covers/114.jpg)
+
+
 You can find details ofthe issue here (in polish): [https://programistamag.pl/programista-4-2024-114/](https://programistamag.pl/programista-4-2024-114/)
