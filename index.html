@@ -37,5 +37,15 @@ feature_row:
     btn_label: "Learn more"      
 ---
 {% include feature_row %}
-
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", (user) => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
