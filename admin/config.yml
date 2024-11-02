@@ -1,7 +1,6 @@
-backend:
-  name: git-gateway
-  repo: mmajewsk/mmajewsk.github.io
-  branch: main
+Backend:
+   Name: git-gateway
+   Branch: main
 media_folder: assets/images
 public_folder: /assets/images
 media_library:
